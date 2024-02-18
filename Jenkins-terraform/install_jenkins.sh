@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#jenkins and java will be installed manually
 
 #install docker
 sudo apt-get update
